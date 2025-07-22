@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "BloodShoinik Bangladesh",
+    "slug": "blood-donor-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.sadekulislam0555.blooddonorappnew"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.sadekulislam0555.blooddonorappnew"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "75da252b-266f-43a4-a5d4-5c538e88d220"
+      }
+    },
+    "owner": "sadekulislam0555",
+    "plugins": [],
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/75da252b-266f-43a4-a5d4-5c538e88d220"
+    }
+  }
+}
